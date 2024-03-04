@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/https//samratmonga.github.io/flone/static/css/main.f150404f.css",
-    "main.js": "/https//samratmonga.github.io/flone/static/js/main.fc12c7eb.js",
+    "main.js": "/https//samratmonga.github.io/flone/static/js/main.8f100fb8.js",
     "static/js/787.d4aba7ab.chunk.js": "/https//samratmonga.github.io/flone/static/js/787.d4aba7ab.chunk.js",
     "static/media/modal-img.jpg": "/https//samratmonga.github.io/flone/static/media/modal-img.423fba7c995e55b54563.jpg",
     "static/media/nancy-chair.png": "/https//samratmonga.github.io/flone/static/media/nancy-chair.f5d2a2c7af22897c4d55.png",
@@ -20,11 +20,11 @@
     "static/media/p-1.jpg": "/https//samratmonga.github.io/flone/static/media/p-1.27cfba5d7664d7c6e568.jpg",
     "index.html": "/https//samratmonga.github.io/flone/index.html",
     "main.f150404f.css.map": "/https//samratmonga.github.io/flone/static/css/main.f150404f.css.map",
-    "main.fc12c7eb.js.map": "/https//samratmonga.github.io/flone/static/js/main.fc12c7eb.js.map",
+    "main.8f100fb8.js.map": "/https//samratmonga.github.io/flone/static/js/main.8f100fb8.js.map",
     "787.d4aba7ab.chunk.js.map": "/https//samratmonga.github.io/flone/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f150404f.css",
-    "static/js/main.fc12c7eb.js"
+    "static/js/main.8f100fb8.js"
   ]
 }
