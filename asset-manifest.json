@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/https//samratmonga.github.io/flone/static/css/main.f150404f.css",
+    "main.js": "/https//samratmonga.github.io/flone/static/js/main.fc12c7eb.js",
+    "static/js/787.d4aba7ab.chunk.js": "/https//samratmonga.github.io/flone/static/js/787.d4aba7ab.chunk.js",
+    "static/media/modal-img.jpg": "/https//samratmonga.github.io/flone/static/media/modal-img.423fba7c995e55b54563.jpg",
+    "static/media/nancy-chair.png": "/https//samratmonga.github.io/flone/static/media/nancy-chair.f5d2a2c7af22897c4d55.png",
+    "static/media/sofa.jpg": "/https//samratmonga.github.io/flone/static/media/sofa.b91f050991e116f9faab.jpg",
+    "static/media/table-wood-pine.png": "/https//samratmonga.github.io/flone/static/media/table-wood-pine.641bf34c01823071721c.png",
+    "static/media/art-deco-home.png": "/https//samratmonga.github.io/flone/static/media/art-deco-home.7c2e44d52d5a442f6655.png",
+    "static/media/card-3.jpg": "/https//samratmonga.github.io/flone/static/media/card-3.389db914fb92c5d12ac5.jpg",
+    "static/media/card-2.jpg": "/https//samratmonga.github.io/flone/static/media/card-2.900bc7c5d4a6f70577c8.jpg",
+    "static/media/chair.jpg": "/https//samratmonga.github.io/flone/static/media/chair.6bc4019aea7785a68df3.jpg",
+    "static/media/gamla.jpg": "/https//samratmonga.github.io/flone/static/media/gamla.73989cadbeb554137d2c.jpg",
+    "static/media/cups.jpg": "/https//samratmonga.github.io/flone/static/media/cups.a36353441e69a8da6ef5.jpg",
+    "static/media/300x300.jpg": "/https//samratmonga.github.io/flone/static/media/300x300.2ea03d2644ec516fa10a.jpg",
+    "static/media/card-1.jpg": "/https//samratmonga.github.io/flone/static/media/card-1.06bdc83fae36cf3060ea.jpg",
+    "static/media/countdown.jpg": "/https//samratmonga.github.io/flone/static/media/countdown.d7e24c882c3d38331545.jpg",
+    "static/media/decoHome.jpg": "/https//samratmonga.github.io/flone/static/media/decoHome.27cfba5d7664d7c6e568.jpg",
+    "static/media/p-1.jpg": "/https//samratmonga.github.io/flone/static/media/p-1.27cfba5d7664d7c6e568.jpg",
+    "index.html": "/https//samratmonga.github.io/flone/index.html",
+    "main.f150404f.css.map": "/https//samratmonga.github.io/flone/static/css/main.f150404f.css.map",
+    "main.fc12c7eb.js.map": "/https//samratmonga.github.io/flone/static/js/main.fc12c7eb.js.map",
+    "787.d4aba7ab.chunk.js.map": "/https//samratmonga.github.io/flone/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f150404f.css",
+    "static/js/main.fc12c7eb.js"
+  ]
+}
