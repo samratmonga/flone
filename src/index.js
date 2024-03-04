@@ -3,11 +3,38 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Home from './Components/Home';
+
+import {
+  createBrowserRouter,
+  RouterProvider,
+  Route,
+  createRoutesFromElements,
+
+
+} from "react-router-dom";
+
+import Whistle from './Pages/Whistle';
+// const [wishlist, setWishlist] = useState([
+//   { name: 'Product 1', price: '$10' },
+//   { name: 'Product 2', price: '$20' },
+//   // Other wishlist items...
+// ]);
+
+const router = createBrowserRouter(
+  createRoutesFromElements(
+    <Route path="/" element={<App />}>
+      <Route index element={<Home />} />
+      <Route path='whistle' element={<Whistle/>} />
+    </Route>
+  )
+)
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <RouterProvider router={router} />
   </React.StrictMode>
 );
 

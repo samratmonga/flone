@@ -1,0 +1,152 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+.for-chair {
+  background-image: url(C:Users\f riendzÞsktop\f lonemy-appsrc\a ssetsImages\c hair.jpg);
+  background: url(../Images/chair.jpg);
+  width: 100%;
+  height: 88vh;
+}
+
+.for-sofa {
+  background-image: url(../Images/sofa.jpg);
+  width: 100%;
+  height: 88vh;
+}
+
+.for-cups {
+  background-image: url(../Images/cups.jpg);
+  width: 100%;
+  height: 88vh;
+}
+
+.about-chair {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 200px;
+}
+.about-chair .first-heading {
+  color: #E1C173;
+  font-weight: 800;
+}
+.about-chair .first-heading h5 {
+  text-transform: uppercase;
+  font-size: 17px;
+}
+.about-chair h2 {
+  font-size: 57px;
+  margin-top: 10px;
+}
+.about-chair .description {
+  width: 500px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.about-chair .shop-btn {
+  padding: 15px;
+  background-color: #000;
+  color: #fff;
+  width: 140px;
+  margin-top: 15px;
+}
+.about-chair .shop-btn .shop-link {
+  color: #fff;
+  text-decoration: none;
+}
+.about-chair .yellow-underline {
+  position: relative;
+}
+.about-chair .yellow-underline::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 6%;
+  background: #E1C173;
+  height: 4px;
+}
+
+/* styles.css */
+.carousel-indicators button {
+  width: 10px !important;
+  height: 10px !important;
+  background-color: #C3C4C6 !important;
+  border: 2px solid #C3C4C6 !important;
+  border-radius: 50px !important;
+  margin-right: 5px !important;
+  gap: 20px;
+  cursor: pointer !important;
+}
+
+.carousel-indicators button.active {
+  background-color: #E1C173 !important;
+  border-color: #E1C173 !important;
+}
+
+.carousel-indicators {
+  gap: 15px;
+}
+
+.carousel-control-prev,
+.carousel-control-prev {
+  color: #E1C173 !important;
+}
+
+.more-chairs {
+  margin-top: 140px;
+  margin-bottom: 80px;
+}
+.more-chairs .chair-img {
+  transition: 0.5s all;
+}
+.more-chairs .chair-img:hover {
+  transform: scale(1.15);
+  transition: 0.5s all;
+}
+.more-chairs .about-nacy-chair p {
+  text-transform: uppercase;
+  color: #999;
+  font-size: 14px;
+}
+.more-chairs .about-nacy-chair .chair-heading {
+  font-weight: 600;
+  position: relative;
+}
+.more-chairs .about-nacy-chair .chair-heading::after {
+  content: "";
+  position: absolute;
+  bottom: -10px;
+  left: 0;
+  right: 0;
+  width: 6%;
+  background: #E1C173;
+  height: 4px;
+}
+
+.necy-des {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.outity-btn {
+  margin-top: 20px;
+}
+
+.price-btn {
+  padding: 10px 35px;
+  color: #000;
+  border: 1px solid #000;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.price-btn {
+  transition: 0.5s all;
+}
+
+.price-btn:hover {
+  background-color: #000;
+  color: #fff;
+  transition: 0.5s all;
+}/*# sourceMappingURL=Home.css.map */
