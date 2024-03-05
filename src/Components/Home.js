@@ -812,7 +812,7 @@ export default function Home() {
                 </div>
                 <div className="news-input">
                   <input type="text" placeholder="Enter email address" />
-                  <button> Subscribe </button>
+                  <button> Subscribe Us </button>
                 </div>
               </div>
             </div>
